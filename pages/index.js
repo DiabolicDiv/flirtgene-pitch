@@ -1,0 +1,1 @@
+export default function Home() { return <div className='h-screen flex items-center justify-center text-white bg-black text-4xl'>FlirtGene Pitch Deck</div>; }
