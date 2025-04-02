@@ -2,7 +2,7 @@ import '../styles/globals.css';
 export default function Home() {
   return (
     <div className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-4 py-12">
-      <h1 className="text-4xl sm:text-6xl font-bold mb-6 tracking-tight">
+<div className="min-h-screen bg-red-500 text-white flex flex-col items-center justify-center px-4 py-12">
         FlirtGene 💘
       </h1>
       <p className="text-lg sm:text-2xl max-w-xl text-center">
